@@ -180,12 +180,15 @@ Active Python core developers
 	Christian Heimes
 	Dino Viehland
 	Dong-hee Na
+	Emily Morehouse
 	Éric Araujo
 	Eric Snow
 	Eric V. Smith
 	Ethan Furman
+	Ezio Melotti
 	Facundo Batista
 	Fred Drake
+	Georg Brandl
 	Giampaolo Rodolà
 	Gregory P. Smith
 	Guido van Rossum
@@ -193,6 +196,7 @@ Active Python core developers
 	Inada Naoki
 	Irit Katriel
 	Ivan Levkivskyi
+	Jack Jansen
 	Jason R. Coombs
 	Jeremy Kloth
 	Jesús Cea
@@ -200,6 +204,7 @@ Active Python core developers
 	Julien Palard
 	Karthikeyan Singaravelan
 	Ken Jin
+	Kurt B. Kaiser
 	Kushal Das
 	Kyle Stanley
 	Larry Hastings
@@ -210,6 +215,8 @@ Active Python core developers
 	Mariatta
 	Mark Dickinson
 	Mark Shannon
+	Matthias Klose
+	Michael Foord
 	Nathaniel J. Smith
 	Ned Deily
 	Neil Schemenauer
@@ -218,6 +225,7 @@ Active Python core developers
 	Paul Ganssle
 	Paul Moore
 	Petr Viktorin
+	R. David Murray
 	Raymond Hettinger
 	Ronald Oussoren
 	Senthil Kumaran
@@ -225,6 +233,7 @@ Active Python core developers
 	Stefan Behnel
 	Stéphane Wirtel
 	Steve Dower
+	Steven D'Aprano
 	Tal Einat
 	Terry Jan Reedy
 	Thomas Wouters
